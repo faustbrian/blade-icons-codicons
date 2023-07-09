@@ -17,7 +17,7 @@
             "role": "Developer"
         }
     ],
-    "homepage": "https://github.com/BombenProdukt/blade-icons-codicons",
+    "homepage": "https://github.com/faustbrian/blade-icons-codicons",
     "require": {
         "php": "^8.2",
         "illuminate/contracts": "^10.0",
